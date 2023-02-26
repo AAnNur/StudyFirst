@@ -2,4 +2,7 @@ Jadi disini adalah sebuah branch baru di dengan
 beberapa txt dari branch yang lainnya
 dan ketika melihat beberapa commit seblumnya 
 disebut snapshot
+-checkout
+-merge
+-merge conflict
 dan kali ini lebih ke arah branc dan merge
