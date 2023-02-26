@@ -2,3 +2,4 @@ Jadi disini adalah sebuah branch baru di dengan
 beberapa txt dari branch yang lainnya
 dan ketika melihat beberapa commit seblumnya 
 disebut snapshot
+dan kali ini lebih ke arah branc dan merge
