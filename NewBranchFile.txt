@@ -7,3 +7,4 @@ disebut snapshot
 -merge conflict
 -hash
 dan kali ini lebih ke arah branc dan merge
+-merge
