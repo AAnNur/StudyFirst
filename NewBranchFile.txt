@@ -5,4 +5,5 @@ disebut snapshot
 -checkout
 -merge
 -merge conflict
+-hash
 dan kali ini lebih ke arah branc dan merge
